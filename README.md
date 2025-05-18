@@ -170,6 +170,6 @@ Made with ❤️ by [@wei](https://github.com/wei)
 [ts-url]: https://www.typescriptlang.org
 [license-badge]: https://badgen.net/badge/License/MIT/black?cache=86400
 [license-url]: https://wei.mit-license.org
-[pull-app]: https://github.com/apps/pull
+[pull-app]: https://github.com/apps/pkull
 [pull-repo]: https://github.com/wei/pull
 [pull-sponsor]: https://prod.download/pull-readme-sponsor
